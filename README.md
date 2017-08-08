@@ -26,9 +26,7 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 **Agenda 8 hours, break times to be announced**
 
-PART 1: NEW MEDIA  / MEDIA AND SOUND
-
-~9:00 - 12:00
+09:00 - 12:00 PART 1: NEW MEDIA  / MEDIA AND SOUND
 
 * Introductions, form work-groups
 * Rationale for the workshop in the context of arts education
@@ -39,13 +37,10 @@ PART 1: NEW MEDIA  / MEDIA AND SOUND
 * Sampling (working with recorded sound)
 * Patch along: making a sound recorder/player in Pd
 
-LUNCH
+12:00 - 13:00 LUNCH
 
-12:00 - 13:00
 
-PART 2: NEW MEDIA II
-
-~13:00 - 15:00
+13:00 - 15:00 PART 2: NEW MEDIA II
 
 * Introduction to GUI design with MobMuPlat editor
 * Patch along: making a GUI for sound recorder
@@ -56,18 +51,14 @@ PART 2: NEW MEDIA II
 * Time permitting: patch along: using system messages for accessing device sensors (tilt data)
 * Time permitting: patch along: sending messages to GUI
 
-PART 3: CURRICULUM DEVELOPMENT
-
-~15:00 - 17:00
+15:00 - 17:00 PART 3: CURRICULUM DEVELOPMENT
 
 * Project design
     * Create a learning context/situation with sound recorder programmed by your students
     * What modifications to code do you imagine?   
 * Work-time and project assistance
 
-PART 4: EDUCATION REFLECTION
-
-~17:00 - 18:00
+17:00 - 18:00 PART 4: EDUCATION REFLECTION
 
 * Work-group reports
 
