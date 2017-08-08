@@ -73,11 +73,19 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 * MobMuPlat alternatives Pd Party (iOS): https://github.com/danomatika/PdParty and Pd Droid Party (Android) http://droidparty.net
 
 **Some examples, links:**
+* <a href="http://plork.princeton.edu/index.php" target="_blank">Princeton Laptop Orchestra: PLOrk</a>
+* <a href="http://slork.stanford.edu/media/" target="_blank">Stanford Laptop Orchestra: SLOrk </a>
+* <a href="http://l2ork.music.vt.edu/main/announcing-pd-l2ork-k-12-learning-module/" target="_blank">Linux Laptop Orchestra: L2Ork </a>
 * <a href="https://youtu.be/uY-hOCyBudo" target="_blank">RISD Programming Sound 2015 class concert</a>
+* <a href="https://www.youtube.com/watch?v=beLxqGKvI-M" target="_blank">Best of NIME 2014 Goldsmiths</a>
+* <a href="http://nime.org" target="_blank">http://nime.org</a>
+* <a href="http://sid.bek.no/Works?filter=exhibition" target="_blank">Sonic Interaction Design exhibition Oslo</a>
 * <a href="http://libpd.cc/portfolio/showcase/">http://libpd.cc/portfolio/showcase/</a>
 * <a href="http://danieliglesia.com/mobmuplat/">http://danieliglesia.com/mobmuplat/</a>
 * <a href="http://bela.io" target="_blank">http://bela.io</a>
-* <a href="http://nime.org" target="_blank">http://nime.org</a>
-* <a href="https://www.youtube.com/watch?v=beLxqGKvI-M" target="_blank">Best of NIME 2014 Goldsmiths</a>
-* <a href="http://sid.bek.no/Works?filter=exhibition" target="_blank">Sonic Interaction Design exhibition Oslo</a>
+
+
+
+
+
 ---
