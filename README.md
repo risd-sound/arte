@@ -31,7 +31,7 @@ PART 1
 * Introductions
 * Rationale for the workshop in the context of arts education
 * Quick overview of NIME (new interfaces for musical expression) and SID (sonic interaction design), examples, Pd as prototyping/development platform for mobile and embedded computing (i.e. product sound design, interactive art and music, apps and games)
-* Software installation: Pd, MobMuPlat Editor, and MobMuPlat mobile app (see above).
+* Software installation: Pd, MobMuPlat Editor, and MobMuPlat mobile app (see links above)
 * Introduction to programming in Pd
 * Patch along: [metro] and making some sound (sound synthesis basics)
 
