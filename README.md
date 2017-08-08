@@ -24,32 +24,42 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 ---
 
-**Agenda 8 hours:**
+**Agenda 8 hours, break times to be announced**
 
-PART 1
+PART 1: ~9:00 - 12:00
 
-* Introductions
+* Introductions, form work-groups
 * Rationale for the workshop in the context of arts education
 * Quick overview of NIME (new interfaces for musical expression) and SID (sonic interaction design), examples, Pd as prototyping/development platform for mobile and embedded computing (i.e. product sound design, interactive art and music, apps and games)
 * Software installation: Pd, MobMuPlat Editor, and MobMuPlat mobile app (see links above)
 * Introduction to programming in Pd
 * Patch along: [metro] and making some sound (sound synthesis basics)
-
-PART 2
-
 * Sampling (working with recorded sound)
 * Patch along: making a sound recorder/player in Pd
+
+LUNCH: 12:00 - 13:00
+
+PART 2: ~13:00 - 15:00
+
 * Introduction to GUI design with MobMuPlat editor
-* Patch along: making a GUI for sound recorder/player
+* Patch along: making a GUI for sound recorder
 * Transferring project files to your mobile device
-
-PART 3
-
-* Modifying sound recorder (playback speed and direction, sample scrubbing, multiple recordings)
-* Patch along: using system messages for accessing device sensors (tilt data)
-* Patch along: sending messages to GUI
+* Patch along: modifying sound recorder: multiple recordings
 * Interaction ideas, looking at other examples, MobMuPlat examples
-* Discussion and open time for assistance
+* Time permitting: patch along: modifying sound recorder: playback speed and direction, sample scrubbing
+* Time permitting: patch along: using system messages for accessing device sensors (tilt data)
+* Time permitting: patch along: sending messages to GUI
+
+PART 3: ~15:00 - 17:00
+
+* Project design
+    * Create a learning context/situation with sound recorder programmed by your students
+    * What modifications to the code do you imagine?   
+* Work-time and project assistance
+
+PART 4: ~17:00 - 18:00
+
+* Work-group reports
 
 ---
 
