@@ -26,7 +26,7 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 **Agenda 8 hours, break times to be announced**
 
-PART 1: NEW MEDIA / MEDIA AND SOUND
+PART 1: NEW MEDIA  / MEDIA AND SOUND
 ~9:00 - 12:00
 
 * Introductions, form work-groups
@@ -61,7 +61,7 @@ PART 3: CURRICULUM DEVELOPMENT
     * What modifications to code do you imagine?   
 * Work-time and project assistance
 
-PART 4: REFLECTION ON EDUCATION
+PART 4: EDUCATION REFLECTION
 ~17:00 - 18:00
 
 * Work-group reports
