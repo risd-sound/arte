@@ -3,48 +3,47 @@
 Workshop code for ARTE workshop: Sonic Interaction and Experience, August 9, 2017
 
 Workshop Description:
-Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sound-based interactions and experiences with the programming language Pure Data (Pd).  Shawn will provide an introduction to Pure Data, an open source programming language.  The workshop focus will be on the development of a project for mobile devices, incorporating on-screen interaction and data from onboard sensors. Topics covered will include sound synthesis and sampling, audio signal processing, and auditory display.
+Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sound-based interactions and experiences with the programming language Pure Data (Pd).  Shawn will provide an introduction to Pure Data, an open source language suitable for students new to programming.  The workshop focus will be on the development of a project for mobile devices, incorporating on-screen interaction and data from onboard sensors. Topics covered will include sound synthesis and sampling, audio signal processing, and auditory display.
 
 **For today's session:**
 
-1. You'll need a computer (lab machine or laptop), a mobile device (iOS or Android), a USB sync cable, headphones, and a sketchbook.
-2. If working on your laptop, download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>.  Put it in your Applications folder (i.e. get it out of your Downloads folder).  Make sure not to download the "test release" or 64-bit version.
-3. Download MobMuPlat development package: <a href="http://danieliglesia.com/mobmuplat/" target="_blank">http://danieliglesia.com/mobmuplat/</a>. Make a new working folder on your Desktop and move the MobMuPlat package there (get it out of your Downloads folder).  If you have a Windows computer, you'll need Java installed for the editor to work: https://java.com/en/download/help/windows_manual_download.xml
-4. For your mobile device, download MobMuPlat either from <a href="https://itunes.apple.com/kr/app/mobmuplat/id597679399?mt=8" target="_blank">iTunes store (iOS)</a> or <a href="https://play.google.com/store/apps/details?id=com.iglesiaintermedia.mobmuplat" target="_blank">Google Play store (Android)</a>.  It's a free app.
-5. For iOS, you'll need iTunes.  For Mac + Android, you can use Android file transfer:  <a href="https://www.android.com/filetransfer/" target="_blank">https://www.android.com/filetransfer/</a>  
-6. You'll need the appropriate sync cable for your device.  Alternatively you can transfer files via AirDrop (iOS), e-mail, or file-sharing apps.
-7. If you have Windows + Android, file transfer should be fairly straightforward, we'll figure it out.
+1. You'll need a laptop computer, a mobile device (iOS or Android), a USB sync cable, and headphones/earbuds.
+2. Download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>.  For Mac the version to get is: **Pd version 0.47-1 compiled for Macintosh OSX 10.4 or later (6 Megabytes)**, then put in your Applications folder.  For Windows, the version to get is: **Pd version 0.47-1 compiled for Microsoft Windows (installer) (executable; 8 Megabytes)**.
+3. Download MobMuPlat development package: <a href="http://danieliglesia.com/mobmuplat/" target="_blank">http://danieliglesia.com/mobmuplat/</a>. Make a new working folder on your Desktop and move the MobMuPlat package there (get it out of your Downloads folder).  
+4. If you have a Windows computer, you'll need Java installed for the MobMuPlat editor to work.  Please see: https://java.com/en/download/help/windows_manual_download.xml
+5. For your mobile device, download MobMuPlat either from <a href="https://itunes.apple.com/kr/app/mobmuplat/id597679399?mt=8" target="_blank">iTunes store (iOS)</a> or <a href="https://play.google.com/store/apps/details?id=com.iglesiaintermedia.mobmuplat" target="_blank">Google Play store (Android)</a>.  It's a free app.
+6. For iOS, you'll need iTunes.  For Mac + Android, you can use Android file transfer:  <a href="https://www.android.com/filetransfer/" target="_blank">https://www.android.com/filetransfer/</a>  
+6. You'll need the appropriate sync cable for your device.  Alternatively you can transfer files via AirDrop (iOS), e-mail, or file-sharing apps (like Dropbox or Google Drive).
+7. If you have Windows + Android, file transfer should be fairly straightforward with Windows Explorer (we'll figure it out).
 
 ---
 
 **Agenda 8 hours:**
 
-PART 1 (2.5 hours)
+PART 1
 
 * Introductions
-* Rationale for workshop in the context of arts education
+* Rationale for the workshop in the context of arts education
 * Quick overview of NIME (new interfaces for musical expression) and SID (sonic interaction design), examples, Pd as prototyping/development platform for mobile and embedded computing (i.e. product sound design, interactive art and music, apps and games)
-* Software installation
+* Software installation: Pd, MobMuPlat Editor, and MobMuPlat mobile app (see above).
 * Introduction to programming in Pd
 * Patch along: [metro] and making some sound (sound synthesis basics)
 
-PART 2 (2.5 hours)
+PART 2
 
-* Sampling (manipulating recorded sound)
-* Patch along: making a sample scrubber in Pd
+* Sampling (working with recorded sound)
+* Patch along: making a sound recorder/player in Pd
 * Introduction to GUI design with MobMuPlat editor
-* Patch along: making a GUI for sample scrubber
-* Install MobMuPlat on your mobile device (iOS or Android)
+* Patch along: making a GUI for sound recorder/player
 * Transferring project files to your mobile device
 
-PART 3 (2.5 hours)
+PART 3
 
-* Modifying sample scrubber
+* Modifying sound recorder (sample scrubber)
 * Patch along: using system messages for accessing device sensors (tilt data)
 * Patch along: sending messages to GUI
 * Interaction ideas, looking at other examples, MobMuPlat examples
-* Group assignment: research and modify examples, experiment, create "sound multiple"
-* Discussion, work-time
+* Discussion and open time for assistance
 
 ---
 
