@@ -45,7 +45,7 @@ PART 2
 
 PART 3
 
-* Modifying sound recorder (sample scrubber)
+* Modifying sound recorder (playback speed and direction, sample scrubbing, multiple recordings)
 * Patch along: using system messages for accessing device sensors (tilt data)
 * Patch along: sending messages to GUI
 * Interaction ideas, looking at other examples, MobMuPlat examples
