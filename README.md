@@ -8,9 +8,9 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 **For today's session:**
 
 1. You'll need a laptop computer, a mobile device (iOS or Android), a USB sync cable, and headphones/earbuds.
-2. Download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>.  
-  1. For Mac the version to get is: **Pd version 0.47-1 compiled for Macintosh OSX 10.4 or later (6 Megabytes)**, then put in your Applications folder.  
-  2. For Windows, the version to get is: **Pd version 0.47-1 compiled for Microsoft Windows (installer) (executable; 8 Megabytes)**.
+2. Download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>.
+    1. For Mac the version to get is: **Pd version 0.47-1 compiled for Macintosh OSX 10.4 or later (6 Megabytes)**, then put in your Applications folder.
+    2. For Windows, the version to get is: **Pd version 0.47-1 compiled for Microsoft Windows (installer) (executable; 8 Megabytes)**.
 3. Download MobMuPlat development package: <a href="http://danieliglesia.com/mobmuplat/" target="_blank">http://danieliglesia.com/mobmuplat/</a>. Make a new working folder on your Desktop and move the MobMuPlat package there (get it out of your Downloads folder).  
 4. If you have a Windows computer, you'll need Java installed for the MobMuPlat editor to work.  Please see: https://java.com/en/download/help/windows_manual_download.xml
 5. For your mobile device, download MobMuPlat either from <a href="https://itunes.apple.com/kr/app/mobmuplat/id597679399?mt=8" target="_blank">iTunes store (iOS)</a> or <a href="https://play.google.com/store/apps/details?id=com.iglesiaintermedia.mobmuplat" target="_blank">Google Play store (Android)</a>.  It's a free app.
