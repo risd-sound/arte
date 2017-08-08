@@ -27,6 +27,7 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 **Agenda 8 hours, break times to be announced**
 
 PART 1: NEW MEDIA  / MEDIA AND SOUND
+
 ~9:00 - 12:00
 
 * Introductions, form work-groups
@@ -39,9 +40,11 @@ PART 1: NEW MEDIA  / MEDIA AND SOUND
 * Patch along: making a sound recorder/player in Pd
 
 LUNCH
+
 12:00 - 13:00
 
 PART 2: NEW MEDIA II
+
 ~13:00 - 15:00
 
 * Introduction to GUI design with MobMuPlat editor
@@ -54,6 +57,7 @@ PART 2: NEW MEDIA II
 * Time permitting: patch along: sending messages to GUI
 
 PART 3: CURRICULUM DEVELOPMENT
+
 ~15:00 - 17:00
 
 * Project design
@@ -62,6 +66,7 @@ PART 3: CURRICULUM DEVELOPMENT
 * Work-time and project assistance
 
 PART 4: EDUCATION REFLECTION
+
 ~17:00 - 18:00
 
 * Work-group reports
