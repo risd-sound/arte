@@ -12,12 +12,8 @@
 #X obj 43 240 vline~;
 #X obj 43 296 tabread4~ voice;
 #X obj 383 26 hsl 400 15 2 88197 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 11093 1;
-#X obj 255 274 line;
-#X obj 383 186 hsl 400 15 2 88197 0 0 empty empty empty -2 -8 0 10
--262144 -1 -1 11093 1;
+-1 -1 0 1;
 #X obj 43 186 pack f 60;
-#X text 45 456 adapted from Tom Erbe example;
 #X obj 41 22 receive fromGUI;
 #X obj 41 50 list trim;
 #X floatatom 41 98 5 0 0 0 - - -, f 5;
@@ -30,16 +26,14 @@
 #X connect 6 0 7 0;
 #X connect 7 0 0 0;
 #X connect 7 0 0 1;
-#X connect 8 0 11 0;
-#X connect 9 0 10 0;
-#X connect 11 0 6 0;
-#X connect 11 0 9 0;
-#X connect 13 0 14 0;
-#X connect 14 0 17 0;
-#X connect 15 0 16 0;
-#X connect 16 0 8 0;
-#X connect 17 0 15 0;
-#X connect 17 1 18 0;
-#X connect 17 2 19 0;
-#X connect 18 0 4 0;
-#X connect 19 0 5 0;
+#X connect 8 0 9 0;
+#X connect 9 0 6 0;
+#X connect 10 0 11 0;
+#X connect 11 0 14 0;
+#X connect 12 0 13 0;
+#X connect 13 0 8 0;
+#X connect 14 0 12 0;
+#X connect 14 1 15 0;
+#X connect 14 2 16 0;
+#X connect 15 0 4 0;
+#X connect 16 0 5 0;
