@@ -42,12 +42,13 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 * Sampling continued (working with recorded sound)
 * Patch along: making a sound recorder in Pd (single and multiple recordings)
+* Software installation: For Windows, install Java (offline version) https://java.com/en/download/manual.jsp
 * Software installation: MobMuPlat Editor and MobMuPlat mobile app (see links above)
 * Introduction to GUI design with MobMuPlat editor
 * Patch along: making a GUI for sound recorder
 * Transferring project files to your mobile device
-* Interaction ideas, looking at other examples, MobMuPlat examples
-* Time permitting: patch along: modifying sound recorder: playback speed and direction, sample scrubbing
+* Time permitting: more interaction ideas, looking at other examples, MobMuPlat examples
+* Time permitting: patch along: modifying sound recorder: multiple sounds, playback speed and direction, sample scrubbing
 * Time permitting: patch along: using system messages for accessing device sensors (tilt data)
 * Time permitting: patch along: sending messages to GUI
 
