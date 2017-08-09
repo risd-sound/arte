@@ -38,16 +38,16 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 12:00 - 13:00 LUNCH
 
 
-13:00 - 15:00 PART 2: NEW MEDIA II
+13:00 - 16:00 PART 2: NEW MEDIA II
 
 * Sampling (working with recorded sound)
 * Patch along: making a sound recorder in Pd (single recording)
 * Let's try: software installation for Windows, install Java (offline version) https://java.com/en/download/manual.jsp
 * Let's try: software installation: MobMuPlat Editor and MobMuPlat mobile app http://danieliglesia.com/mobmuplat/
 * If successful: introduction to GUI design with MobMuPlat editor
-* If not, more with Pd and sampling (multiple sounds, playback speed and direction, sample scrubbing, keyboard interaction)
+* If not, more with Pd and sampling (multiple sounds, playback speed and direction, keyboard interaction)
 
-15:00 - 17:00 PART 3: CURRICULUM DEVELOPMENT
+16:00 - 17:00 PART 3: CURRICULUM DEVELOPMENT
 
 * Project design
     * Create a learning context/situation with sound recorder programmed by your students
