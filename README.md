@@ -34,7 +34,6 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 * Software installation: Pd (see links above)
 * Introduction to programming in Pd
 * Patch along: [metro] and making some sound (sound synthesis basics)
-* Sampling introduction (working with recorded sound)
 
 12:00 - 13:00 LUNCH
 
@@ -42,12 +41,11 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 13:00 - 15:00 PART 2: NEW MEDIA II
 
 * Sampling continued (working with recorded sound)
-* Patch along: making a sound recorder/player in Pd
+* Patch along: making a sound recorder in Pd (single and multiple recordings)
 * Software installation: MobMuPlat Editor and MobMuPlat mobile app (see links above)
 * Introduction to GUI design with MobMuPlat editor
 * Patch along: making a GUI for sound recorder
 * Transferring project files to your mobile device
-* Patch along: modifying sound recorder: multiple recordings
 * Interaction ideas, looking at other examples, MobMuPlat examples
 * Time permitting: patch along: modifying sound recorder: playback speed and direction, sample scrubbing
 * Time permitting: patch along: using system messages for accessing device sensors (tilt data)
