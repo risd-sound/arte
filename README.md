@@ -31,7 +31,7 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 * Introductions, form work-groups
 * Rationale for the workshop in the context of arts education
 * Quick overview of NIME (new interfaces for musical expression) and SID (sonic interaction design), examples, Pd as prototyping/development platform for mobile and embedded computing (i.e. product sound design, interactive art and music, apps and games)
-* Software installation: Pd (see links above)
+* Software installation: Pd http://msp.ucsd.edu/software.html (see above)
 * Introduction to programming in Pd
 * Patch along: [metro] and making some sound (sound synthesis basics)
 
@@ -42,8 +42,8 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 * Sampling continued (working with recorded sound)
 * Patch along: making a sound recorder in Pd (single and multiple recordings)
-* Software installation: For Windows, install Java (offline version) https://java.com/en/download/manual.jsp
-* Software installation: MobMuPlat Editor and MobMuPlat mobile app (see links above)
+* Software installation: for Windows, install Java (offline version) https://java.com/en/download/manual.jsp
+* Software installation: MobMuPlat Editor and MobMuPlat mobile app http://danieliglesia.com/mobmuplat/
 * Introduction to GUI design with MobMuPlat editor
 * Patch along: making a GUI for sound recorder
 * Transferring project files to your mobile device
