@@ -40,7 +40,7 @@ Shawn Greenlee (Associate Professor, RISD) will lead a workshop on designing sou
 
 13:00 - 15:00 PART 2: NEW MEDIA II
 
-* Sampling continued (working with recorded sound)
+* Sampling (working with recorded sound)
 * Patch along: making a sound recorder in Pd (single and multiple recordings)
 * Software installation: for Windows, install Java (offline version) https://java.com/en/download/manual.jsp
 * Software installation: MobMuPlat Editor and MobMuPlat mobile app http://danieliglesia.com/mobmuplat/
